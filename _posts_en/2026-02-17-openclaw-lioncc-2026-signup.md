@@ -28,7 +28,7 @@ Got a problem? Drop it in the group. Someone's probably hit the same wall.
 1. 💰 **Pay ¥99** — Scan the WeChat QR code below, pay ¥99 to "凌一"
 2. 🔢 **Save your transaction ID** — Find the transaction ID in WeChat after payment
 3. 📝 **Fill out the form** — Click the link or scan the QR code, fill in your name, WeChat ID, transaction ID, and payment screenshot
-4. ⏳ **Wait for confirmation** — We'll verify payment and contact you on WeChat within 24 hours
+4. ⏳ **Wait for confirmation** — We'll verify payment and contact you on WeChat（➕ WeChat review is faster Help000000）within 24 hours
 
 ---
 
