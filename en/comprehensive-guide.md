@@ -21,9 +21,9 @@ Based on official Claude Max **$200/month** (approx. ¥1450) subscription:
 
 | Plan | Users | Monthly Price | Weekly Quota | Cost Savings |
 |------|-------|---------------|--------------|--------------|
-| **6-Person Carpool** ⭐ | 6 people | **¥398/person/mo** | ~133 USD | Save 72% |
-| 3-Person Carpool | 3 people | ¥768/person/mo | ~267 USD | Save 47% |
-| 1-Person Exclusive | Full power | ¥2,200/mo | 800 USD | Full Performance |
+| **6-Person Carpool** ⭐ | 6 people | **¥398/person/mo** | 400 USD/person | Save 72% |
+| 3-Person Carpool | 3 people | ¥768/person/mo | 800 USD/person | Save 47% |
+| 1-Person Exclusive | Full power | ¥2,200/mo | Full quota exclusive | Full Performance |
 
 ### 🌟 Core Advantages
 

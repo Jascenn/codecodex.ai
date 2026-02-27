@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚗 Lion CC - Official Claude Code Carpool Service"
-date: 2025-11-06
+date: 2026-02-27
 summary: "Lion CC provides official Claude Code carpool service starting from ¥398/month. Support 1-6 person flexible carpooling, bypass CC restrictions, direct connection in China, stable operation for 3 months. Get free ChatGPT Codex experience when booking, agency partnership welcome!"
 categories: [Carpool Service, Claude Code, User Guide]
 tags: [Claude Carpool, Official Authorization, Lion CC, China Direct Connection, Computing Service]
@@ -37,11 +37,13 @@ Access our management backend to view API call statistics in real-time:
 
 Based on official Claude Max **$200/month** (approximately ¥1450) subscription, Lion CC offers highly cost-effective carpool plans:
 
+**Latest Policy**: Weekly quota of 100 USD (synced with official cycle), divided equally among passengers!
+
 | Package Type | Team Size | Monthly Price | Weekly Quota | Annual Cost | Value |
 |-------------|-----------|---------------|--------------|-------------|-------|
-| **6-Person Carpool** ⭐ | 6 people share | **¥398/person/month** | ~133 USD | ¥4,776/year | Save 72% |
-| 3-Person Carpool | 3 people share | ¥768/person/month | ~267 USD | ¥9,216/year | Save 47% |
-| 1-Person Exclusive | Full computing power | ¥2,200/month | 800 USD | ¥26,400/year | Full performance |
+| **6-Person Carpool** ⭐ | 6 people share | **¥398/person/month** | 400 USD/person | ¥4,776/year | Save 72% |
+| 3-Person Carpool | 3 people share | ¥768/person/month | 800 USD/person | ¥9,216/year | Save 47% |
+| 1-Person Exclusive | Full computing power | ¥2,200/month | Full quota exclusive | ¥26,400/year | Full performance |
 
 > 💡 **Recommended**: 6-person carpool offers the best value, fully sufficient for daily programming needs, only ¥13 per day!
 
@@ -226,4 +228,4 @@ Contact customer service now and start your AI programming journey!
 
 > 💡 **Tip**: Claude Max account resources are limited, advance booking recommended. Lion CC promises service quality, enabling every developer to use Claude Code efficiently!
 
-*Last updated: November 6, 2025 | Lion CC Leo Programming*
+*Last updated: February 27, 2026 | Lion CC Leo Programming*

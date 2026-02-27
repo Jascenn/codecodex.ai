@@ -20,12 +20,11 @@ keywords: Claude Code FAQ,Claude Carpool FAQ,Claude Deployment Issues,Claude Pri
 
 #### Q2: How is the weekly quota allocated?
 **A:**
-- No daily limits, using weekly quota (based on account cycle)
-- Current MAX 20X weekly quota is approximately **800 USD** (synced with official)
-- Carpool directly splits account weekly quota:
-  - 6-person: 800/6 = **133 USD** per person per week
-  - 3-person: 800/3 = **267 USD** per person per week
-  - 1-person: Full **800 USD** per week
+- Latest policy: Weekly quota of 100 USD (synced with official cycle), divided equally among passengers
+- Carpool packages (30-day cycle):
+  - 6-person: **400 USD** per person (¥398/month)
+  - 3-person: **800 USD** per person (¥768/month)
+  - 1-person exclusive: **Full quota exclusive** (¥2200/month)
 
 #### Q3: What services are included in the price?
 **A:**

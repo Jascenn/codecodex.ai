@@ -19,17 +19,23 @@ keywords: Claude Code Carpool,Claude Carpool Price,Claude Max Carpool,Claude Off
 
 ### 💰 Carpool Package Pricing
 
+**Latest Policy**: Weekly quota of 100 USD (synced with official cycle), divided equally among passengers!
+
 | Package Type | Team Size | Monthly Price | Weekly Quota |
 |-------------|-----------|---------------|--------------|
-| 🚌 6-Person Carpool | 6 people | **¥398** | ~133 USD |
-| 🚗 3-Person Carpool | 3 people | **¥768** | ~267 USD |
-| 🏎️ 1-Person Exclusive | 1 person | **¥2200** | 800 USD |
+| 🚌 6-Person Carpool | 6 people | **¥398** | 400 USD/person |
+| 🚗 3-Person Carpool | 3 people | **¥768** | 800 USD/person |
+| 🏎️ 1-Person Exclusive | 1 person | **¥2200** | Full quota exclusive |
 
-### ⚠️ Latest Quota Policy
+### 🎯 Core Advantages
 
-1. **Weekly Quota System**: No daily limits, using weekly quotas (based on account cycle)
-2. **Current MAX Account Weekly Quota**: Approximately 800 USD (synced with official)
-3. **Carpool Quota Distribution**: 800 USD divided equally by number of passengers
+✅ **Bypass Official Restrictions** - Solve regional blocks, IP requirements, stable access to Claude code & OpenAI Codex
+
+✅ **Transparent Management** - Check token usage anytime, verify teammates' usage, fully transparent
+
+✅ **Max 200 USD Dedicated Account** - Each carpool uses a dedicated MAX 200 USD account, stable for 3+ months
+
+✅ **Safe & Compliant** - AI learning only, no illegal operations, fully compliant
 
 ### 🎯 Carpool Advantages
 

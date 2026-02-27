@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Choose Lion CC Claude Code Carpool Service?
-date: 2025-11-06
+date: 2026-02-27
 categories: User Guide
 summary: Deep dive into Lion CC Claude Code carpool service advantages, including pricing comparison, technical solutions, service guarantees, helping you make informed decisions
 tags: [Claude Code, Carpool Service, Lion CC, User Guide, Price Comparison]
@@ -25,9 +25,11 @@ Claude Code, as Anthropic's AI programming assistant, is highly sought after by 
 
 Lion CC supports 1-6 person flexible carpooling to meet different needs:
 
-- **6-Person Carpool**: ¥398/month - Best value, ~133 USD weekly quota
-- **3-Person Carpool**: ¥768/month - High frequency use, ~267 USD weekly quota
-- **1-Person Exclusive**: ¥2200/month - Full 800 USD computing power
+**Latest Policy**: Weekly quota of 100 USD (synced with official cycle), divided equally among passengers!
+
+- **6-Person Carpool**: ¥398/month - Best value, 400 USD/person
+- **3-Person Carpool**: ¥768/month - High frequency use, 800 USD/person
+- **1-Person Exclusive**: ¥2200/month - Full quota exclusive
 
 > 💡 **Tip**: Book Claude Code carpool and get free ChatGPT Codex trial!
 
@@ -222,4 +224,4 @@ Contact customer service now and start your AI programming journey!
 
 ---
 
-*Last updated: November 6, 2025 | Lion CC Leo Programming*
+*Last updated: February 27, 2026 | Lion CC Leo Programming*
