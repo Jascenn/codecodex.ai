@@ -4,6 +4,7 @@ _site
 .bower_components
 .idea
 node_modules
+vendor/
 # Ignore the config file that's used for gh-pages.
 _config.gh-pages.yml
 .jekyll-cache
