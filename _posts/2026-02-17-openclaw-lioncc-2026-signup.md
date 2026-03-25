@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "OpenClaw & LionCC 交流 2026 付费群 - 报名入口"
-date: 2026-02-17
+date: 2026-02-17 10:00:00
 summary: "OpenClaw & LionCC 交流 2026 付费群，¥99/人，入群送 $100 额度，扫码付款后填写报名表即可完成报名。"
 categories: [社群, AI工具]
 tags: ["OpenClaw", "LionCC", "付费群", "交流群", "2026", "报名"]

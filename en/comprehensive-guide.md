@@ -21,16 +21,15 @@ Based on official Claude Max **$200/month** (approx. ¥1450) subscription:
 
 | Plan | Users | Monthly Price | Weekly Quota | Cost Savings |
 |------|-------|---------------|--------------|--------------|
-| **6-Person Carpool** ⭐ | 6 people | **¥398/person/mo** | 400 USD/person | Save 72% |
-| 3-Person Carpool | 3 people | ¥768/person/mo | 800 USD/person | Save 47% |
-| 1-Person Exclusive | Full power | ¥2,200/mo | Full quota exclusive | Full Performance |
+| **6-Person Carpool** ⭐ | 6 people | **¥400/person/mo** | 100 USD/person, cumulative 400 USD | Save 72% |
+| 1-Person Exclusive | Full power | ¥2,400/mo | 800 USD weekly, cumulative 3200 USD | Full Performance |
 
 ### 🌟 Core Advantages
 
 - ✅ **Official Authorization** - Legitimate Claude Max account, compliant and secure
 - ✅ **Bypass Restrictions** - Professional gateway system, prevent IP throttling
 - ✅ **Direct Access in China** - No VPN needed, no network restrictions
-- ✅ **Stable Operation** - Serving the market for nearly 3 months
+- ✅ **Stable Operation** - Serving the market for nearly 5 months
 - ✅ **Real-time Monitoring** - Professional dashboard, transparent tracking
 - ✅ **Flexible Carpooling** - 1-6 people free choice
 

@@ -32,7 +32,7 @@ Lion CC's Claude Code solution, based on server hosting and gateway IP system, a
 
 Add group admin WeChat **LionCC.ai@Carpool Assistant**, inform customer service:
 - How many seats you want (1-6 people)
-- Choose plan (6-person ¥398/mo, 3-person ¥768/mo, 1-person ¥2200/mo)
+- Choose plan (6-person ¥400/mo, 1-person ¥2400/mo)
 
 ### Step 2: Subscribe to Official Account
 
@@ -208,7 +208,7 @@ claude "Analyze and fix this error: TypeError at line 42"
 **Book Claude Code carpool and get free ChatGPT Codex trial!**
 
 Lion CC also provides:
-- 🚗 Claude Code Carpool Service (6-person ¥398/mo, 3-person ¥768/mo, 1-person ¥2200/mo)
+- 🚗 Claude Code Carpool Service (6-person ¥400/mo, 1-person ¥2400/mo)
 - ⚡ VibeCodingAPI.ai Global AI Model API Computing Service
 - 🤖 ChatGPT Codex Programming Service
 

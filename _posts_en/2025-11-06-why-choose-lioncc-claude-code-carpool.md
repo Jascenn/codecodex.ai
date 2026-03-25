@@ -17,8 +17,8 @@ Claude Code, as Anthropic's AI programming assistant, is highly sought after by 
 
 | Comparison | Official Direct Subscription | Lion CC Carpool |
 |-----------|------------------------------|-----------------|
-| **Monthly Price** | $200/month (≈¥1450) | Starting from ¥398/month |
-| **Annual Cost** | $2400/year (≈¥17400) | Starting from ¥4776/year |
+| **Monthly Price** | $200/month (≈¥1450) | Starting from ¥400/month |
+| **Annual Cost** | $2400/year (≈¥17400) | Starting from ¥4800/year |
 | **Value** | - | **Save 72%** |
 
 ### Flexible Carpool Options
@@ -27,9 +27,8 @@ Lion CC supports 1-6 person flexible carpooling to meet different needs:
 
 **Latest Policy**: Weekly quota of 100 USD (synced with official cycle), divided equally among passengers!
 
-- **6-Person Carpool**: ¥398/month - Best value, 400 USD/person
-- **3-Person Carpool**: ¥768/month - High frequency use, 800 USD/person
-- **1-Person Exclusive**: ¥2200/month - Full quota exclusive
+- **6-Person Carpool**: ¥400/month - Best value, weekly quota 100 USD/person, cumulative 400 USD/person
+- **1-Person Exclusive**: ¥2400/month - Full quota exclusive, weekly quota 800 USD, cumulative 3200 USD
 
 > 💡 **Tip**: Book Claude Code carpool and get free ChatGPT Codex trial!
 
@@ -144,7 +143,7 @@ Run `claude "Hello, Claude!"` to test success
 
 ### ⚠️ Less Suitable Scenarios
 
-1. **Extremely High Frequency Use**: If you need large amounts of continuous daily use, recommend exclusive service (¥2200/month)
+1. **Extremely High Frequency Use**: If you need large amounts of continuous daily use, recommend exclusive service (¥2400/month)
 2. **Commercial Large-scale Applications**: Enterprise-level applications recommend contacting official directly
 3. **Extremely Latency Sensitive**: Although Lion CC has optimized routing, there will theoretically be minimal latency
 

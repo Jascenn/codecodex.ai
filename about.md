@@ -4,7 +4,7 @@ title: About
 permalink: /about.html
 hideHomeActive: true
 comments: false
-description: Lion CC 狮子座编程 - 全球领先的AI编程解决方案提供商，专注Claude Code拼车、AI算力服务、稳定运营3个月，欢迎代理合作
+description: Lion CC 狮子座编程 - 全球领先的AI编程解决方案提供商，专注Claude Code拼车、AI算力服务、稳定运营5个月，欢迎代理合作
 keywords: Lion CC,狮子座编程,AI编程服务,Claude拼车服务商,AI算力平台,VibeCodingAPI,代理合作
 ---
 
@@ -19,8 +19,8 @@ Lion CC 是全球领先的 AI 编程解决方案提供商，专注于 Claude Cod
 ### 🎯 核心服务
 
 - **🚗 拼车服务** - [codecodex.ai](https://codecodex.ai) Claude Code Max 200刀拼车
-  - 运行稳定 3 个月+
-  - 6人车 ¥398/月，3人车 ¥768/月，1人车 ¥2200/月
+  - 运行稳定 5 个月+
+  - 6人车 ¥400/月，1人车 ¥2400/月
   - 绕过官方封号、国区封锁、零IP环境门槛
   - 欢迎合作推广
 - **⚡ 算力服务** - [VibeCodingAPI.ai](https://VibeCodingAPI.ai) 全球 AI 大模型 API 算力服务商

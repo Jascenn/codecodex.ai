@@ -3,8 +3,8 @@ layout: page
 title: 拼车指南
 permalink: /carpool.html
 comments: false
-description: Lion CC 提供 Claude Code 官方授权拼车服务，最低¥398/月起，支持1-6人灵活拼车，绕过CC封锁，国内网络直接使用，稳定运营3个月
-keywords: Claude Code拼车,Claude拼车价格,Claude Max拼车,Claude官方授权,国内使用Claude Code,Claude拼车398元
+description: Lion CC 提供 Claude Code 官方授权拼车服务，最低¥400/月起，支持1-6人灵活拼车，绕过CC封锁，国内网络直接使用，稳定运营5个月
+keywords: Claude Code拼车,Claude拼车价格,Claude Max拼车,Claude官方授权,国内使用Claude Code,Claude拼车400元
 ---
 
 <div style="text-align: center; margin: 40px 0;">
@@ -13,7 +13,7 @@ keywords: Claude Code拼车,Claude拼车价格,Claude Max拼车,Claude官方授�
 
 ## 🚗 Lion CC 拼车服务
 
-**Claude Code Max 200刀 · 运行稳定三个月+**
+**Claude Code Max 200刀 · 运行稳定五个月+**
 **绕过官方封号、国区封锁、零IP环境门槛**
 
 ### 💰 拼车套餐价格
@@ -22,9 +22,8 @@ keywords: Claude Code拼车,Claude拼车价格,Claude Max拼车,Claude官方授�
 
 | 车型 | 人数 | 价格/月 | 周额度 |
 |------|-----|---------|--------|
-| 🚌 六人车 | 6人 | **¥398** | 400刀/人 |
-| 🚗 三人车 | 3人 | **¥768** | 800刀/人 |
-| 🏎️ 单人车（独享） | 1人 | **¥2200** | 独享全部额度 |
+| 🚌 六人车 | 6人 | **¥400** | 100刀/人，累计400刀/人 |
+| 🏎️ 包车独享 | 1人 | **¥2400** | 800刀，累计3200刀 |
 
 ### 🎯 核心优势
 
@@ -32,7 +31,7 @@ keywords: Claude Code拼车,Claude拼车价格,Claude Max拼车,Claude官方授�
 
 ✅ **透明管理** - 按权密钥可自查Token用量，支持核对队友用量，公开透明
 
-✅ **Max 200刀专号** - 每车专用一个MAX200刀算力账号，已稳定运行超3个月
+✅ **Max 200刀专号** - 每车专用一个MAX200刀算力账号，已稳定运行超5个月
 
 ✅ **安全合规** - 仅限AI学习用途，杜绝违法操作，合法合规
 

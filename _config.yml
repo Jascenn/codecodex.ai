@@ -2,8 +2,8 @@
 # 网站核心信息 / Site Core Information
 # ==============================================================================
 
-title: Lion CC - Claude Code 拼车服务 | 最低¥398/月起
-description: Lion CC 提供 Claude Code 官方授权拼车服务，最低¥398/月起（6人车），3人车 ¥768/月，1人车 ¥2200/月，支持1-6人灵活拼车，绕过CC封锁，国内网络直接使用，稳定运营3个月，VibeCodingAPI算力服务商，欢迎代理合作
+title: Lion CC - Claude Code 拼车服务 | 最低¥400/月起
+description: Lion CC 提供 Claude Code 官方授权拼车服务，6人车 ¥400/月，包车独享 ¥2400/月，周限额与累积额度双控，国内网络直接使用，稳定运营5个月，VibeCodingAPI算力服务商，欢迎代理合作
 url: https://codecodex.ai
 baseurl: ""
 repo: Jascenn/codecodex.ai
@@ -146,7 +146,7 @@ defaultImage: data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAIC
 
 site_name: Lion CC
 site_slogan: Claude Code 拼车服务 - 探索 AI 编程的无限可能
-site_description: Lion CC 提供专业的 Claude Code 拼车服务，最低¥398/月起（6人车），3人车 ¥768/月，1人车 ¥2200/月，稳定运营3个月
+site_description: Lion CC 提供专业的 Claude Code 拼车服务，6人车 ¥400/月，包车独享 ¥2400/月，稳定运营5个月
 
 # 作者信息
 author_name: 所罗门号商
@@ -175,18 +175,17 @@ show_author: true
 # 拼车套餐配置
 carpool_plans:
   - name: 6人拼车
-    price: 398
+    price: 400
     users: 6
-    quota: 133
+    quota: 100
+    total_quota: 400
     official_price: 200
-  - name: 3人拼车
-    price: 768
-    users: 3
-    quota: 267
-    official_price: 200
-  - name: 1人包车
-    price: 2200
+  - name: 包车独享
+    price: 2400
     users: 1
+    quota: 800
+    total_quota: 3200
+    official_price: 200
     quota: 800
     official_price: 200
 
@@ -195,7 +194,7 @@ service_features:
   - 官方授权，合规使用
   - 绕过 CC 封锁，防 IP 降智
   - 国内网络直连，无需 VPN
-  - 稳定运营近 3 个月
+  - 稳定运营近 5 个月
   - 实时监控仪表盘
   - 专业技术支持
   - 欢迎代理合作

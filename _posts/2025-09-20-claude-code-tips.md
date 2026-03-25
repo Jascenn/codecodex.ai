@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Claude Code 实用技巧：让你的编程效率翻倍"
-date: 2025-09-20
+date: 2025-09-20 10:00:00
+summary: "掌握 Claude Code 的实用技巧，包括精准提示词编写、增量式开发、代码审查等最佳实践，让你的 AI 编程效率翻倍"
 categories: [教程, Claude Code]
 tags: [AI编程, 效率提升, 最佳实践]
 ---

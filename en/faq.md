@@ -13,18 +13,16 @@ keywords: Claude Code FAQ,Claude Carpool FAQ,Claude Deployment Issues,Claude Pri
 ### 💰 Pricing & Packages
 
 #### Q1: What are the carpool prices?
-**A:** Based on Claude Code Max $200/month, stable operation for 3+ months:
-- **6-Person Carpool**: ¥398/person/month for 30 days
-- **3-Person Carpool**: ¥768/person/month for 30 days
-- **1-Person Exclusive**: Only ¥2200/month for 30 days
+**A:** Based on Claude Code Max $200/month, stable operation for 5+ months:
+- **6-Person Carpool**: ¥400/person/month for 30 days
+- **1-Person Exclusive**: Only ¥2400/month for 30 days
 
 #### Q2: How is the weekly quota allocated?
 **A:**
 - Latest policy: Weekly quota of 100 USD (synced with official cycle), divided equally among passengers
 - Carpool packages (30-day cycle):
-  - 6-person: **400 USD** per person (¥398/month)
-  - 3-person: **800 USD** per person (¥768/month)
-  - 1-person exclusive: **Full quota exclusive** (¥2200/month)
+  - 6-person: **100 USD/person weekly** (¥400/month), cumulative 400 USD/person
+  - 1-person exclusive: **800 USD weekly** (¥2400/month), cumulative 3200 USD
 
 #### Q3: What services are included in the price?
 **A:**

@@ -870,7 +870,7 @@ docker logs bettafish 2>&1 | grep -i error
 - 🎁 社群用户送 $20 测试额度（限前 1000 名）
 
 **CodeCodex.ai** - Claude Code 拼车服务
-- 无 IP 封锁，国内直连，最低 ¥398/月起
+- 无 IP 封锁，国内直连，最低 ¥400/月起
 - 适合需要稳定 Claude Code 服务的用户
 
 ### 技术支持
@@ -881,4 +881,4 @@ docker logs bettafish 2>&1 | grep -i error
 
 ---
 
-*本文档持续更新中 | 最后更新：2025-11-07*
+*本文档持续更新中 | 最后更新：2026-03-26*

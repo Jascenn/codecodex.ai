@@ -872,7 +872,7 @@ This document is tested and verified on the following platforms, recommended for
 - 🎁 Community users get $20 testing credits (limited to first 1000 users)
 
 **CodeCodex.ai** - Claude Code Carpool Service
-- No IP blocking, direct connection in China, starting from ¥398/month
+- No IP blocking, direct connection in China, starting from ¥400/month
 - Suitable for users who need stable Claude Code service
 
 ### Technical Support

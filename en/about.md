@@ -5,7 +5,7 @@ permalink: /en/about.html
 hideHomeActive: true
 comments: false
 lang: en-US
-description: Lion CC Leo Programming - Global leading AI programming solution provider, focusing on Claude Code carpool, AI computing services, stable operation for 3+ months, agency partnership welcome
+description: Lion CC Leo Programming - Global leading AI programming solution provider, focusing on Claude Code carpool, AI computing services, stable operation for 5+ months, agency partnership welcome
 keywords: Lion CC,Leo Programming,AI Programming Services,Claude Carpool Provider,AI Computing Platform,VibeCodingAPI,Agency Partnership
 ---
 
@@ -20,8 +20,8 @@ Lion CC is a global leading AI programming solution provider, focusing on the pr
 ### 🎯 Core Services
 
 - **🚗 Carpool Service** - [codecodex.ai](https://codecodex.ai) Claude Code Max $200 Carpool
-  - Stable operation for 3+ months
-  - 6-person: ¥398/month, 3-person: ¥768/month, 1-person: ¥2200/month
+  - Stable operation for 5+ months
+  - 6-person: ¥400/month, 1-person: ¥2400/month
   - Bypass official restrictions, regional locks, zero IP requirements
   - Agency partnership welcome
 - **⚡ Computing Service** - [VibeCodingAPI.ai](https://VibeCodingAPI.ai) Global AI Model API Computing Provider

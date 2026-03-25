@@ -2,10 +2,10 @@
 layout: post
 title: "🚗 Lion CC - Official Claude Code Carpool Service"
 date: 2026-02-27
-summary: "Lion CC provides official Claude Code carpool service starting from ¥398/month. Support 1-6 person flexible carpooling, bypass CC restrictions, direct connection in China, stable operation for 3 months. Get free ChatGPT Codex experience when booking, agency partnership welcome!"
+summary: "Lion CC provides official Claude Code carpool service starting from ¥400/month. Support 1-6 person flexible carpooling, bypass CC restrictions, direct connection in China, stable operation for 5 months. Get free ChatGPT Codex experience when booking, agency partnership welcome!"
 categories: [Carpool Service, Claude Code, User Guide]
 tags: [Claude Carpool, Official Authorization, Lion CC, China Direct Connection, Computing Service]
-description: Lion CC provides official Claude Code carpool service starting from ¥398/month, bypass CC restrictions, direct connection in China, stable operation for 3 months
+description: Lion CC provides official Claude Code carpool service starting from ¥400/month, bypass CC restrictions, direct connection in China, stable operation for 5 months
 keywords: Claude Code Carpool,Claude Carpool Price,Lion CC,Use Claude in China,Official Authorization,VibeCodingAPI
 pinned: true
 ---
@@ -41,8 +41,8 @@ Based on official Claude Max **$200/month** (approximately ¥1450) subscription,
 
 | Package Type | Team Size | Monthly Price | Weekly Quota | Annual Cost | Value |
 |-------------|-----------|---------------|--------------|-------------|-------|
-| **6-Person Carpool** ⭐ | 6 people share | **¥398/person/month** | 400 USD/person | ¥4,776/year | Save 72% |
-| 3-Person Carpool | 3 people share | ¥768/person/month | 800 USD/person | ¥9,216/year | Save 47% |
+| **6-Person Carpool** ⭐ | 6 people share | **¥400/person/month** | 100 USD/person weekly, 400 USD total | ¥4,800/year | Save 72% |
+| 1-Person Exclusive | Exclusive use | ¥2400/month | 800 USD weekly, 3200 USD total | ¥28,800/year | Full performance |
 | 1-Person Exclusive | Full computing power | ¥2,200/month | Full quota exclusive | ¥26,400/year | Full performance |
 
 > 💡 **Recommended**: 6-person carpool offers the best value, fully sufficient for daily programming needs, only ¥13 per day!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🚀 3 分钟上手 OpenClaw + LionCC"
-date: 2026-02-04
+date: 2026-02-04 10:00:00
 summary: "OpenClaw 是真正能帮你干活的 AI 助手，清理邮箱、管日历、自动值机……本文教你用 LionCC 3 分钟快速配置 OpenClaw，接入 Claude 最强模型，国内网络直连使用！"
 categories: [教程, AI工具]
 tags: ["AI工具", "Claude", "OpenClaw", "LionCC", "教程"]

@@ -4,8 +4,8 @@ title: Carpool Guide
 permalink: /en/carpool.html
 comments: false
 lang: en-US
-description: Lion CC provides Claude Code official carpool service, starting from ¥398/month, support 1-6 person flexible carpooling, bypass CC restrictions, direct connection in China, stable operation for 3+ months
-keywords: Claude Code Carpool,Claude Carpool Price,Claude Max Carpool,Claude Official Authorization,Use Claude Code in China,Claude Carpool 398 Yuan
+description: Lion CC provides Claude Code official carpool service, starting from ¥400/month, support 1-6 person flexible carpooling, bypass CC restrictions, direct connection in China, stable operation for 5+ months
+keywords: Claude Code Carpool,Claude Carpool Price,Claude Max Carpool,Claude Official Authorization,Use Claude Code in China,Claude Carpool 400 Yuan
 ---
 
 <div style="text-align: center; margin: 40px 0;">
@@ -14,7 +14,7 @@ keywords: Claude Code Carpool,Claude Carpool Price,Claude Max Carpool,Claude Off
 
 ## 🚗 Lion CC Carpool Service
 
-**Claude Code Max $200 · Stable Operation 3+ Months**
+**Claude Code Max $200 · Stable Operation 5+ Months**
 **Bypass Official Restrictions, No IP Requirements, Direct Connection in China**
 
 ### 💰 Carpool Package Pricing
@@ -23,9 +23,8 @@ keywords: Claude Code Carpool,Claude Carpool Price,Claude Max Carpool,Claude Off
 
 | Package Type | Team Size | Monthly Price | Weekly Quota |
 |-------------|-----------|---------------|--------------|
-| 🚌 6-Person Carpool | 6 people | **¥398** | 400 USD/person |
-| 🚗 3-Person Carpool | 3 people | **¥768** | 800 USD/person |
-| 🏎️ 1-Person Exclusive | 1 person | **¥2200** | Full quota exclusive |
+| 🚌 6-Person Carpool | 6 people | **¥400** | 100 USD/person, cumulative 400 USD |
+| 🏎️ 1-Person Exclusive | 1 person | **¥2400** | 800 USD weekly, cumulative 3200 USD |
 
 ### 🎯 Core Advantages
 
