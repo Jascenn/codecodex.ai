@@ -1,0 +1,26 @@
+# CodeCodex
+
+> Claude Code 使用技巧、AI 编程工具评测与拼车服务指南，作者凌一（Lingyi）。
+
+## 关于
+
+CodeCodex 是凌一（Lingyi）运营的技术博客，专注 Claude Code 实践、AI 编程效率和工具评测。内容来自真实使用经验，不做广告软文。
+
+## 关键页面
+
+- /：首页，最新文章列表
+- /carpool：Claude Code 拼车服务介绍与报名
+- /about：关于作者
+- /en：英文内容
+
+## 主要内容方向
+
+- Claude Code 使用技巧与最佳实践
+- AI 编程工具横向评测（Claude Code vs Cursor vs Copilot 等）
+- Claude Code 拼车服务：多人共享 Claude Max，降低使用成本
+
+## 作者
+
+凌一（Lingyi），AI 工具深度用户，LionCC 和 OpenClaw 项目作者。
+- 个人主页：https://lingyi.bio
+- GitHub：https://github.com/Jascenn
